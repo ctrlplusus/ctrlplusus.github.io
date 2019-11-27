@@ -1,0 +1,18 @@
+﻿[
+  {
+    "title": "Full Stack Software Engineer",
+    "description": "FSSE Machine learning and/or data science background with an understanding of filtering bulk data sets to optimize analytics. Experience with Java and/or C++, Netflow data and SQL injection. Understanding of Apache Spark framework."
+  },
+  {
+    "title": "RF Software Engineer",
+    "description": "RFSE Machine learning and/or data science background with an understanding of filtering bulk data sets to optimize analytics. Experience with Java and/or C++, Netflow data and SQL injection. Understanding of Apache Spark framework."
+  },
+  {
+    "title": "Test Engineer",
+    "description": "TE Machine learning and/or data science background with an understanding of filtering bulk data sets to optimize analytics. Experience with Java and/or C++, Netflow data and SQL injection. Understanding of Apache Spark framework."
+  },
+  {
+    "title": "System Adminstrator",
+    "description": "SA Machine learning and/or data science background with an understanding of filtering bulk data sets to optimize analytics. Experience with Java and/or C++, Netflow data and SQL injection. Understanding of Apache Spark framework."
+  }
+]
